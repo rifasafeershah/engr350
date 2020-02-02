@@ -1,0 +1,23 @@
+privacy
+
+1.
+in our class lecture, we talked about 3 types of privacy. list them here:
+accessibility
+decisional
+informational
+
+2.
+we made and important distinction between descriptive privacy and normative privacy. match the term to the appropriate definition.
+"natural privacy" - when a loss of privacy happen, we generally don't care about it - decriptive privacy
+
+"violated privacy" - when a loss of privacy happens, we feel like we've been somehow violated - normative privacy
+
+3.
+we discussed 3 types of data gathering and exchange. fill in the proper name for each practice below.
+
+combining data from multiple sources to identify individual records or groups of individual records - data merging
+
+comparing data from multiple sources to search for matched or "hits" among those sources - data matching
+
+combining and comparing data, then identifying non- obvious trends from it - data mining
+
